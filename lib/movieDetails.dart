@@ -3,9 +3,7 @@ import 'package:flutter/material.dart';
 
 class MoviesDetails extends StatefulWidget {
   final String movieId = "";
-  // const MoviesDetails(){
-  //
-  // }
+
 
   @override
   State<MoviesDetails> createState() => _MoviesDetailsState();
